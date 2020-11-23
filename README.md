@@ -1,18 +1,6 @@
-<p align="center">
-
-<a href="https://www.npmjs.com/package/botfront">
-    <img alt="npm" src="https://img.shields.io/npm/v/rasa-webchat.svg">
-</a>
-<a href='https://github.com/botfront/botfront/blob/master/LICENSE'>
-    <img alt="License" src="https://img.shields.io/github/license/botfront/rasa-webchat">
-</a>
-<a href='https://spectrum.chat/botfront'>
-    <img alt="License" src="https://withspectrum.github.io/badge/badge.svg">
-</a>
-</p>
-<h1 align="center">Rasa Webchat 💬</h1>
+<h1 align="center">Webchat Widget 💬</h1>
 <h5 align="center">
- A chat widget to deploy virtual assistants made with <a href="https://github.com/rasaHQ/rasa">Rasa</a> or <a href="https://github.com/botfront/botfront?utm_source=rasa_webchat">Botfront</a> on any website.
+ A chat widget to deploy virtual assistants made with <a href="https://github.com/rasaHQ/rasa">Rasa</a> on any website.
 </h5>
 <br />
 <br />
@@ -31,12 +19,6 @@
 - Typing indications
 - Smart delay between messages
 - Easy to import in a script tag or as a React Component
-
-## 🔥 Promo: check out our other cool open source project
-
-<a href="https://github.com/botfront/botfront?utm_source=rasa_webchat">
-<img align="center" src="https://github.com/botfront/botfront/raw/master/botfront_animation.gif" alt="demonstration" width="100%">
-</a>
 
 
 ## Usage
@@ -246,11 +228,3 @@ hierarchy:
 | .rw-videoFrame             | a container for sending video                                       |
 
 
-## Contributors
-[@PHLF](https://github.com/phlf)
-[@znat](https://github.com/znat)
-[@TheoTomalty](https://github.com/TheoTomalty)
-[@Hub4IT](https://github.com/Hub4IT)
-[@dliuproduction](https://github.com/dliuproduction)
-[@MatthieuJnon](https://github.com/MatthieuJnon)
-[@mofortin](https://github.com/mofortin)
